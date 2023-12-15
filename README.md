@@ -1,4 +1,9 @@
-AI Resources
+# AI Resources
+
+### [AI for Lawyers](https://github.com/Kashyap-AI-Resources/AI-and-Law)
+### [AI in Retail](https://github.com/Kashyap-AI-Resources/AI-in-Retail)
+### [AI in Hr](https://github.com/Kashyap-AI-Resources/AI-in-HR)
+### [](AI in Banking/Finance](https://github.com/Kashyap-AI-Resources/AI-in-Banking-and-Finance)
 
 <!---
 Kashyap-AI-Resources/Kashyap-AI-Resources is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
